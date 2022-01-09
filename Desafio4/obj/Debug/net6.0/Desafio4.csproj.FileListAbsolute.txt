@@ -1,0 +1,15 @@
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio4\bin\Debug\net6.0\Desafio4.exe
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio4\bin\Debug\net6.0\Desafio4.deps.json
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio4\bin\Debug\net6.0\Desafio4.runtimeconfig.json
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio4\bin\Debug\net6.0\Desafio4.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio4\bin\Debug\net6.0\ref\Desafio4.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio4\bin\Debug\net6.0\Desafio4.pdb
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio4\obj\Debug\net6.0\Desafio4.csproj.AssemblyReference.cache
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio4\obj\Debug\net6.0\Desafio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio4\obj\Debug\net6.0\Desafio4.AssemblyInfoInputs.cache
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio4\obj\Debug\net6.0\Desafio4.AssemblyInfo.cs
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio4\obj\Debug\net6.0\Desafio4.csproj.CoreCompileInputs.cache
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio4\obj\Debug\net6.0\Desafio4.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio4\obj\Debug\net6.0\ref\Desafio4.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio4\obj\Debug\net6.0\Desafio4.pdb
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio4\obj\Debug\net6.0\Desafio4.genruntimeconfig.cache

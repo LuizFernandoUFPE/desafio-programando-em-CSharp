@@ -1,0 +1,15 @@
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio2\Desafio2\bin\Debug\net6.0\Desafio2.exe
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio2\Desafio2\bin\Debug\net6.0\Desafio2.deps.json
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio2\Desafio2\bin\Debug\net6.0\Desafio2.runtimeconfig.json
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio2\Desafio2\bin\Debug\net6.0\Desafio2.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio2\Desafio2\bin\Debug\net6.0\ref\Desafio2.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio2\Desafio2\bin\Debug\net6.0\Desafio2.pdb
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio2\Desafio2\obj\Debug\net6.0\Desafio2.csproj.AssemblyReference.cache
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio2\Desafio2\obj\Debug\net6.0\Desafio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio2\Desafio2\obj\Debug\net6.0\Desafio2.AssemblyInfoInputs.cache
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio2\Desafio2\obj\Debug\net6.0\Desafio2.AssemblyInfo.cs
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio2\Desafio2\obj\Debug\net6.0\Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio2\Desafio2\obj\Debug\net6.0\Desafio2.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio2\Desafio2\obj\Debug\net6.0\ref\Desafio2.dll
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio2\Desafio2\obj\Debug\net6.0\Desafio2.pdb
+C:\Users\luizp\OneDrive\Área de Trabalho\AVANADE\DesafioProgamandoEmC#\Desafio2\Desafio2\obj\Debug\net6.0\Desafio2.genruntimeconfig.cache
